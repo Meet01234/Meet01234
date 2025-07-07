@@ -27,7 +27,7 @@
 
 <img align="middle" alt="coding" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/nginx_icon_animation.gif">
 
-<image align="middle" alt="coding" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzZzNDdrNGxhbXJ4NDhiZTU3emtkaW43eWZ4cmN4aHV2YXBsaGF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/source.gif">
+<img align="middle" alt="coding" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/python_icon_animation.gif">
 
 ---
 

@@ -11,23 +11,17 @@
   </a>
 </p>
 
-<image align="middle" alt="coding" width="150" src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM">
-
-<image align="middle" alt="coding" width="150" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif">
-
-<image align="middle" alt="coding" width="150" src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif">
-
-<image align="middle" alt="coding" width="150" src="https://cdn.dribbble.com/userupload/23311639/file/original-36ccb4c185bf6a46aea75c6f819df611.gif">
-
-<image align="middle" alt="coding" width="150" src="https://i0.wp.com/automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.gif?resize=691%2C461&ssl=1">
-
-<image align="middle" alt="coding" width="150" src="https://miro.medium.com/v2/resize:fit:1400/1*cfR0f7VCtJBgdLAOjfRwFg.gif">
-
-<image align="middle" alt="coding" width="150" src="https://images.pling.com/img/00/00/55/86/05/1442245/24647f211b4887364973b9958bed65676de9dec5c25505c0b4515aa0c8d05ffd0bff.gif">
-
-<img align="middle" alt="coding" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/nginx_icon_animation.gif">
-
-<img align="middle" alt="coding" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/python_icon_animation.gif">
+<p align="center">
+  <img align="middle" alt="coding" width="150" src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM" />
+  <img align="middle" alt="coding" width="150" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" />
+  <img align="middle" alt="coding" width="150" src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" />
+  <img align="middle" alt="coding" width="150" src="https://cdn.dribbble.com/userupload/23311639/file/original-36ccb4c185bf6a46aea75c6f819df611.gif" />
+  <img align="middle" alt="coding" width="150" src="https://i0.wp.com/automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.gif?resize=691%2C461&ssl=1" />
+  <img align="middle" alt="coding" width="150" src="https://www.atatus.com/blog/content/images/2024/02/kubectl-top-resource-utilization-metrics.gif" />
+  <img align="middle" alt="coding" width="150" src="https://images.pling.com/img/00/00/55/86/05/1442245/24647f211b4887364973b9958bed65676de9dec5c25505c0b4515aa0c8d05ffd0bff.gif" />
+  <img align="middle" alt="nginx gif" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/nginx_icon_animation.gif" />
+  <img align="middle" alt="python gif" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/python_icon_animation.gif" />
+</p>
 
 ---
 

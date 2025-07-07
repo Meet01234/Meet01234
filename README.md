@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meet01234&label=Profile%20views&color=0e75b6&style=flat" alt="meet01234" />
+  <img src="https://komarev.com/ghpvc/?username=meet01234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ---
 
-- 🌱 I’m currently learning **Openshift**
-- 🤝 I’m looking for help with **DevOps**
-- 👨‍💻 All of my projects are available at: [meetparmar.com](https://meetparmar.com)
-- 💬 Ask me about **DevOps**
-- 📫 Reach me at: **meetparmar14790@gmail.com**
-- 📄 Know about my experiences: [GitHub Resume Repo](https://github.com/Meet01234/Meet_Parmar_Resume.git)
+- 🌱 I’m currently learning **Openshift**  
+- 🤝 I’m looking for help with **DevOps**  
+- 👨‍💻 All of my projects are available at: [meetparmar.com](https://meetparmar.com)  
+- 💬 Ask me about **DevOps**  
+- 📫 Reach me at: **meetparmar14790@gmail.com**  
+- 📄 Know about my experiences: [GitHub Resume Repo](https://github.com/Meet01234/Meet_Parmar_Resume.git)  
 - ⚡ Fun fact: **I Create GitHub Repos**
 
 ---
@@ -26,13 +26,13 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="[https://linkedin.com/in/meetparmar](https://www.linkedin.com/in/meet26/)" target="_blank">
+  <a href="https://www.linkedin.com/in/meet26/" target="_blank">
     <img src="https://img.shields.io/badge/-Meet%20Parmar-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="[https://fb.com/parmarmeet](https://www.facebook.com/parmar.meet.1656)" target="_blank">
+  <a href="https://www.facebook.com/parmar.meet.1656" target="_blank">
     <img src="https://img.shields.io/badge/-Parmar%20Meet-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/parmarmeet](https://www.instagram.com/parmar.meet.1656/)" target="_blank">
+  <a href="https://www.instagram.com/parmar.meet.1656/" target="_blank">
     <img src="https://img.shields.io/badge/-@parmarmeet-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
@@ -70,4 +70,3 @@
 </p>
 
 ---
-

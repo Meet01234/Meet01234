@@ -25,10 +25,9 @@
 
 <image align="middle" alt="coding" width="150" src="https://images.pling.com/img/00/00/55/86/05/1442245/24647f211b4887364973b9958bed65676de9dec5c25505c0b4515aa0c8d05ffd0bff.gif">
 
-<image align="middle" alt="coding" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzZzNDdrNGxhbXJ4NDhiZTU3emtkaW43eWZ4cmN4aHV2YXBsaGF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/source.gif">
-
 <img align="middle" alt="coding" width="150" src="https://raw.githubusercontent.com/Meet01234/Meet01234/main/nginx_icon_animation.gif">
 
+<image align="middle" alt="coding" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzZzNDdrNGxhbXJ4NDhiZTU3emtkaW43eWZ4cmN4aHV2YXBsaGF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/source.gif">
 
 ---
 

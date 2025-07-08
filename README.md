@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet Parmar</h1>
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 
-
 <p align="center">
   <img align="middle" alt="coding" width="150" height="150" src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM" />
   <img align="middle" alt="coding" width="150" height="150" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" />
@@ -30,22 +29,20 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meet26/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:meetparmar14790@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/parmar.meet.1656/" target="\_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="vertical-align:middle;"/>
+  <a href="https://www.instagram.com/parmar.meet.1656/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/parmar.meet.1656" target="\_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40" style="vertical-align:middle;"/>
+  <a href="https://www.facebook.com/parmar.meet.1656" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40"/>
   </a>
- 
 </p>
 
 ---
@@ -58,6 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
@@ -66,7 +64,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" width="110" height="60"/>
 </p>
+
 
 ---
 
@@ -89,5 +91,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet01234&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----

@@ -39,14 +39,24 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meet26/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meet%20Parmar-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="vertical-align:middle;"/>
   </a>
-  <a href="https://www.facebook.com/parmar.meet.1656" target="_blank">
-    <img src="https://img.shields.io/badge/-Parmar%20Meet-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:meetparmar14790@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="vertical-align:middle;"/>
   </a>
-  <a href="https://www.instagram.com/parmar.meet.1656/" target="_blank">
-    <img src="https://img.shields.io/badge/-@parmarmeet-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+ 
+    <!-- Instagram -->
+  <a href="https://www.instagram.com/parmar.meet.1656/" target="\_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="vertical-align:middle;"/>
   </a>
+  &nbsp;&nbsp;
+ 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/parmar.meet.1656" target="\_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40" style="vertical-align:middle;"/>
+  </a>
+ 
 </p>
 
 ---

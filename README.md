@@ -45,13 +45,11 @@
   <a href="mailto:meetparmar14790@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="vertical-align:middle;"/>
   </a>
- 
-    <!-- Instagram -->
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/parmar.meet.1656/" target="\_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;
- 
   <!-- Facebook -->
   <a href="https://www.facebook.com/parmar.meet.1656" target="\_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40" style="vertical-align:middle;"/>

@@ -81,9 +81,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meet01234&theme=oldie&margin-w=15&margin-h=15"/>
+  <img 
+    src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png"
+    alt="GitHub Profile Banner"
+    style="max-width:100%; height:auto;"
+  />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet01234&layout=compact&theme=tokyonight" alt="Top Languages" />

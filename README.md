@@ -75,7 +75,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meet01234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meet01234&column=-1" alt="Profile Views" />
 </p>
 
 <p align="center">

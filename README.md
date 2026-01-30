@@ -81,7 +81,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet01234&theme=oldie" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meet01234&theme=oldie&margin-w=15&margin-h=15"/>
 </p>
 
 <p align="center">

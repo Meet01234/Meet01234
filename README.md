@@ -81,7 +81,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet01234&theme=oldie&margin-w=15&margin-h=15"/>
+  <img 
+    src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png" 
+    alt="GitHub Profile Banner"
+    width="660"
+  />
 </p>
 
 <p align="center">

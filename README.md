@@ -75,10 +75,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet01234&column=-1" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=meet01234&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Profile Trophies" />
   </a>

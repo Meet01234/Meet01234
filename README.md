@@ -92,13 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet01234&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Meet01234&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet01234&theme=tokyonight"/>
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet01234&layout=compact&theme=tokyonight"/>
 </p>

@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet01234&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Meet01234&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">

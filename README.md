@@ -2,9 +2,7 @@
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/posts/raju-kankanwadi-25661267_amazonian-hereatprimevideo-amazon-activity-6937359139215941633-jcy1">
 <img align="center" alt="coding" width="80" height="80" src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=Sllf47i-q6d9iufTZS9hMwkbbl5VM7cRdy6oJXUXCtM"/>
-</a>
 <img align="middle" alt="coding" width="80" height="80" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" />
 <img align="middle" alt="coding" width="80" height="80" src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" />
 <img align="middle" alt="coding" width="85" height="80" src="https://cdn.dribbble.com/userupload/23311639/file/original-36ccb4c185bf6a46aea75c6f819df611.gif" />
